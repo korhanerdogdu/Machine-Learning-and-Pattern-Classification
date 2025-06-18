@@ -1,5 +1,5 @@
 # MLPC 2024 Project: Speech Command Recognition for Smart Home Systems  
-*(Johannes Kepler University Linz — Erasmus Program, Spring 2024-2025)*
+*(Johannes Kepler University Linz — Erasmus Program, Spring 2024)*
 
 This repository contains my complete project work for the **MLPC 2024 Project (Machine Learning Practical Course)** at **JKU Linz**.  
 The project focused on developing an **on-device speech command recognition system** for a fictional Austrian company, **SmartVoiceControl**. The system is designed for **German-speaking smart home users** and aims to control devices like lights, heating, or alarms using voice commands — without needing an activation phrase such as "Hey Siri" or "Ok Google."
