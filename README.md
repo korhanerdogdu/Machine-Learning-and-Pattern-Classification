@@ -1,4 +1,4 @@
-# 🚀 MLPC 2024 Project: Speech Command Recognition for Smart Home Systems  
+# MLPC 2024 Project: Speech Command Recognition for Smart Home Systems  
 *(Johannes Kepler University Linz — Erasmus Program, Spring 2024-2025)*
 
 This repository contains my complete project work for the **MLPC 2024 Project (Machine Learning Practical Course)** at **JKU Linz**.  
